@@ -19,7 +19,7 @@ Once you models are ready, you can build your actual database. This is made slig
 - Make sure you docker container is running, if not, start it up (`docker-compose up --build`).
 - On a different shell, run the command `docker exec -it tutorialapp_web_1 bash`.
 - Make sure you're in the `code` folder.
-- Run `./manage.py makemigrations emptyapp` (if you kept the name amptyapp, change it otherwise).
+- Run `./manage.py makemigrations emptyapp` (if you kept the name emptyapp, change it otherwise).
 - You should see a list and a lot of OK's...and no errors!
 - Run `./manage.py migrate`.
 
