@@ -1,0 +1,227 @@
+[
+  {
+    "login": "mojombo",
+    "url": "https://api.github.com/users/mojombo",
+    "user_type": "User"
+  },
+  {
+    "login": "wycats",
+    "url": "https://api.github.com/users/wycats",
+    "user_type": "User"
+  },
+  {
+    "login": "rubinius",
+    "url": "https://api.github.com/users/rubinius",
+    "user_type": "Organization"
+  },
+  {
+    "login": "vanpelt",
+    "url": "https://api.github.com/users/vanpelt",
+    "user_type": "User"
+  },
+  {
+    "login": "defunkt",
+    "url": "https://api.github.com/users/defunkt",
+    "user_type": "User"
+  },
+  {
+    "login": "technoweenie",
+    "url": "https://api.github.com/users/technoweenie",
+    "user_type": "User"
+  },
+  {
+    "login": "Caged",
+    "url": "https://api.github.com/users/Caged",
+    "user_type": "User"
+  },
+  {
+    "login": "anotherjesse",
+    "url": "https://api.github.com/users/anotherjesse",
+    "user_type": "User"
+  },
+  {
+    "login": "macournoyer",
+    "url": "https://api.github.com/users/macournoyer",
+    "user_type": "User"
+  },
+  {
+    "login": "jamesgolick",
+    "url": "https://api.github.com/users/jamesgolick",
+    "user_type": "User"
+  },
+  {
+    "login": "KirinDave",
+    "url": "https://api.github.com/users/KirinDave",
+    "user_type": "User"
+  },
+  {
+    "login": "bmizerany",
+    "url": "https://api.github.com/users/bmizerany",
+    "user_type": "User"
+  },
+  {
+    "login": "jnewland",
+    "url": "https://api.github.com/users/jnewland",
+    "user_type": "User"
+  },
+  {
+    "login": "ruby-git",
+    "url": "https://api.github.com/users/ruby-git",
+    "user_type": "Organization"
+  },
+  {
+    "login": "ezmobius",
+    "url": "https://api.github.com/users/ezmobius",
+    "user_type": "User"
+  },
+  {
+    "login": "uggedal",
+    "url": "https://api.github.com/users/uggedal",
+    "user_type": "User"
+  },
+  {
+    "login": "mmower",
+    "url": "https://api.github.com/users/mmower",
+    "user_type": "User"
+  },
+  {
+    "login": "abhay",
+    "url": "https://api.github.com/users/abhay",
+    "user_type": "User"
+  },
+  {
+    "login": "benburkert",
+    "url": "https://api.github.com/users/benburkert",
+    "user_type": "User"
+  },
+  {
+    "login": "sr",
+    "url": "https://api.github.com/users/sr",
+    "user_type": "User"
+  },
+  {
+    "login": "queso",
+    "url": "https://api.github.com/users/queso",
+    "user_type": "User"
+  },
+  {
+    "login": "drnic",
+    "url": "https://api.github.com/users/drnic",
+    "user_type": "User"
+  },
+  {
+    "login": "danwrong",
+    "url": "https://api.github.com/users/danwrong",
+    "user_type": "User"
+  },
+  {
+    "login": "wayneeseguin",
+    "url": "https://api.github.com/users/wayneeseguin",
+    "user_type": "User"
+  },
+  {
+    "login": "mattetti",
+    "url": "https://api.github.com/users/mattetti",
+    "user_type": "User"
+  },
+  {
+    "login": "grempe",
+    "url": "https://api.github.com/users/grempe",
+    "user_type": "User"
+  },
+  {
+    "login": "peterc",
+    "url": "https://api.github.com/users/peterc",
+    "user_type": "User"
+  },
+  {
+    "login": "hornbeck",
+    "url": "https://api.github.com/users/hornbeck",
+    "user_type": "User"
+  },
+  {
+    "login": "up_the_irons",
+    "url": "https://api.github.com/users/up_the_irons",
+    "user_type": "User"
+  },
+  {
+    "login": "atmos",
+    "url": "https://api.github.com/users/atmos",
+    "user_type": "User"
+  },
+  {
+    "login": "brosner",
+    "url": "https://api.github.com/users/brosner",
+    "user_type": "User"
+  },
+  {
+    "login": "jnicklas",
+    "url": "https://api.github.com/users/jnicklas",
+    "user_type": "User"
+  },
+  {
+    "login": "cristibalan",
+    "url": "https://api.github.com/users/cristibalan",
+    "user_type": "User"
+  },
+  {
+    "login": "simonjefford",
+    "url": "https://api.github.com/users/simonjefford",
+    "user_type": "User"
+  },
+  {
+    "login": "leahneukirchen",
+    "url": "https://api.github.com/users/leahneukirchen",
+    "user_type": "User"
+  },
+  {
+    "login": "engineyard",
+    "url": "https://api.github.com/users/engineyard",
+    "user_type": "Organization"
+  },
+  {
+    "login": "kevinclark",
+    "url": "https://api.github.com/users/kevinclark",
+    "user_type": "User"
+  },
+  {
+    "login": "technomancy",
+    "url": "https://api.github.com/users/technomancy",
+    "user_type": "User"
+  },
+  {
+    "login": "sevenwire",
+    "url": "https://api.github.com/users/sevenwire",
+    "user_type": "Organization"
+  },
+  {
+    "login": "technicalpickles",
+    "url": "https://api.github.com/users/technicalpickles",
+    "user_type": "User"
+  },
+  {
+    "login": "lazyatom",
+    "url": "https://api.github.com/users/lazyatom",
+    "user_type": "User"
+  },
+  {
+    "login": "josh",
+    "url": "https://api.github.com/users/josh",
+    "user_type": "User"
+  },
+  {
+    "login": "cdcarter",
+    "url": "https://api.github.com/users/cdcarter",
+    "user_type": "User"
+  },
+  {
+    "login": "bs",
+    "url": "https://api.github.com/users/bs",
+    "user_type": "User"
+  },
+  {
+    "login": "collectiveidea",
+    "url": "https://api.github.com/users/collectiveidea",
+    "user_type": "Organization"
+  }
+]

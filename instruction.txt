@@ -1,0 +1,19 @@
+If you want to use the code I provided, you can just pull the repository and bring the Docker container up.
+In order to do so you must have docker and docker-compose installed, check:
+	
+	https://docs.docker.com/install/   ->  Docker installation (pick your system from the menu).
+	https://docs.docker.com/compose/install/ -> Docker Compose installation.
+	
+In order to bring the container up, run the `docker-compose up --build command`. This will start your container AND your Django server.
+
+As discussed in the tutorial, you can modify the app we worked on the tutorial, if you change its name, be careful about 
+
+Now you are ready to build your app. First off you'll need to build some models for your database. If the info given in the tutorial weren't enough, please visit the Django page: https://docs.djangoproject.com/en/2.1/ref/models/fields/ . Alternatively, you can shoot me an email at g.casoni@student.rug.nl (but please first try the docs and/or StackOverflow). 
+
+Once you models are ready, you can build your actual database. This is made slightly trickier by the fact that you are running on docker, but following there steps should do the trick:
+	
+	- Make sure you docker container is running, if not, start it up.
+	- On a different shell, run the command `docker exec -it tutorialapp_web_1 bash`.
+	- Make sure you're in the `code` folder.
+	- Run `./manage.py makemigrations EmptyApp` (if you kept the name EmptyApp, change it otherwise).
+	- 
