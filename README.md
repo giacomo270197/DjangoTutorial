@@ -6,7 +6,7 @@ https://docs.docker.com/compose/install/ -> Docker Compose installation.
 	
 In order to bring the container up, run the `docker-compose up --build` command. This will start your container AND your Django server.
 
-As discussed in the tutorial, there will be a app you can work on, called `emptyapp`. If you want to delete the app used in the tutorial (`gitapp`), just delete the folder and the entry in `settings.py/INSTALLED_APPS`. 
+As discussed in the tutorial, there will be an app you can work on, called `emptyapp`. If you want to delete the app used in the tutorial (`gitapp`), just delete the folder and the entry in `settings.py/INSTALLED_APPS`. 
 
 Now you are ready to build your app. First off you'll need to build some models for your database. If the info given in the tutorial weren't enough (probably so), please visit the Django page:
 
