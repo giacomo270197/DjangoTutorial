@@ -1,8 +1,8 @@
 **If you want to use the code I provided**, you can just pull the repository and bring the Docker container up.
 In order to do so you must have docker and docker-compose installed, check:
 	
-https://docs.docker.com/install/   ->  Docker installation (pick your system from the menu).
-https://docs.docker.com/compose/install/ -> Docker Compose installation.
+https://docs.docker.com/install/   ->  Docker installation (pick your system from the menu).  
+https://docs.docker.com/compose/install/ -> Docker Compose installation.  
 	
 In order to bring the container up, run the `docker-compose up --build` command. This will start your container AND your Django server.
 
@@ -29,5 +29,5 @@ Your endpoints are going to be reachable at `localhost:8000/` + whatever endpoin
 
 NOTES:
 	
-	- The combination `makemigrations` and `migrate` applies the changes you made to the models to your DB, therefore you'll need to run it everytime you change your models.
-	- Docker sets all the files it creates as owned by 'root'. This could cause permissions problems. Just run problematic commands with `sudo` or set youself as a owner (`chown`)
+- The combination `makemigrations` and `migrate` applies the changes you made to the models to your DB, therefore you'll need to run it everytime you change your models.
+- Docker sets all the files it creates as owned by 'root'. This could cause permissions problems. Just run problematic commands with `sudo` or set youself as a owner (`chown`)
