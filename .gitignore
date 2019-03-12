@@ -1,3 +1,7 @@
 djangoapp/.idea/
 djangoapp/__pycache__/
-
+db.sqlite3
+djangoapp/emptyapp/__pycache__/
+djangoapp/gitapp/__pycache__/
+djangoapp/gitapp/migrations/
+djangoapp/emptyapp/migrations/

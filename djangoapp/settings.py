@@ -40,8 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'coreapi',
     'django_filters',
-    'emptyapp',
-    'gitapp',
+    'djangoapp.emptyapp',
+    'djangoapp.gitapp',
 ]
 
 MIDDLEWARE = [
