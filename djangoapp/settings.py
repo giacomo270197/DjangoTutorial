@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'coreapi',
     'django_filters',
+    'django_extensions',
     'djangoapp.emptyapp',
     'djangoapp.gitapp',
 ]

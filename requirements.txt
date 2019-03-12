@@ -3,3 +3,5 @@ djangorestframework
 coreapi
 pyyaml
 django-filter
+django-extensions
+ipython
